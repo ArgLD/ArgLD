@@ -59,6 +59,9 @@
 
 <!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ArgLD)   -->
 
+  <h3>
+  <img align="right" alt="GIF code" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
+</h3>
   
 <h3 align="left">
   <i>Follow me around the web:</i><br>
@@ -70,6 +73,4 @@
 
 ![Profile views](https://gpvc.arturio.dev/ArgLD)
 
-<h3>
-  <img align="right" alt="GIF code" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
-</h3>
+
