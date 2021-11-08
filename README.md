@@ -1,13 +1,17 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Argleydson+Leão;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
-<h1>Hi there 👋, my name is Argleydson & I ❤️ code.</h1>
+<!-- <h1>Hi there 👋, my name is Argleydson & I ❤️ code.</h1> -->
 
 <h4> I am OutSystems Developer and Full Stack Web Developer </h4>
-
-
-
+</br>
 
 <h3 align="left">
-  <b>🚀💻 Technologies & Tools</b> </br>
+  <b>🚀💻 Languages & Frameworks & Tools & Abilities</b> </br>
+  </br>
     <img src="https://img.shields.io/badge/-HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=important">
     <img src="https://img.shields.io/badge/-CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=blue">
     <img src="https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=yellow">
@@ -46,24 +50,48 @@
   <img src='https://img.shields.io/badge/-argleydson-blue?style=flat-square&logo=Linkedin&logoColor=white' alt='linkedin'>  
 </h3>
 
+
+
 <!-- [<img src='https://img.shields.io/badge/-argleydson-blue?style=flat-square&logo=Linkedin&logoColor=white' alt='linkedin'>](https://www.linkedin.com/in/https://www.linkedin.com/in/argleydson/) -->    
 <!--     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ArgLD) 
     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/argleydson/) -->
    
 
 
-## ⚡ GitHub Stats
-
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=ArgLD&theme=tokyonight&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=ArgLD&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+<!--   <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArgLD&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=ArgLD&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p> -->
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArgLD&hide=TeX&layout=compact) -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ArgLD&theme=tokyonight&show_icons=true&count_private=true)  
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ArgLD&theme=tokyonight&show_icons=true&count_private=true)   -->
 
 ![GitHub metrics](https://metrics.lecoq.io/ArgLD)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ArgLD)  
+<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ArgLD)   -->
 
 ![Profile views](https://gpvc.arturio.dev/ArgLD)  
 
 
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+
+<img align="left" alt="GIF code" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
+<img align="right" alt="Gif dev chair" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" width="400" height="320"  />
+
