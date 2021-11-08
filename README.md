@@ -6,12 +6,11 @@
 
 <!-- <h1>Hi there 👋, my name is Argleydson & I ❤️ code.</h1> -->
 
-<h4> I am OutSystems Developer and Full Stack Web Developer </h4>
+<h4 align="center"> 🚀 I am OutSystems Developer and Full Stack Web Developer 🚀</h4>
 </br>
 
-<h3 align="left">
-  <b>🚀💻 Languages & Frameworks & Tools & Abilities</b> </br>
-  </br>
+<h3 align="center">
+  <b>💻 Languages, Frameworks, Tools, Abilities</b> </br>
     <img src="https://img.shields.io/badge/-HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=important">
     <img src="https://img.shields.io/badge/-CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=blue">
     <img src="https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=yellow">
@@ -21,7 +20,7 @@
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github">
     <img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab">
   </h3>
-  
+  </br>
 <!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -45,11 +44,11 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket) -->
 
-<h3 align="left">
-  <b>Social media:</b> </br>
+<h3 align="center">
+  <b>Social media:</b> </br>    
   <img src='https://img.shields.io/badge/-argleydson-blue?style=flat-square&logo=Linkedin&logoColor=white' alt='linkedin'>  
 </h3>
-
+</br>
 
 
 <!-- [<img src='https://img.shields.io/badge/-argleydson-blue?style=flat-square&logo=Linkedin&logoColor=white' alt='linkedin'>](https://www.linkedin.com/in/https://www.linkedin.com/in/argleydson/) -->    
