@@ -1,16 +1,30 @@
-<!-- TITLE --> 
-<h1 align="center">
-  <a>
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Argleydson+Leão;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
-
 <!-- GIF MARIO -->
 <h1 align="center">
   <a>
     <img src="https://user-images.githubusercontent.com/78452566/140799812-a9c3a701-3b74-47fb-be11-c2363d68cd31.gif">
   </a>
 </h1>
+
+<!-- TITLE --> 
+<p align="center">
+  <a>
+    <img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Argleydson+Leão;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</p>
+
+<hr>
+
+<!-- ABOUT ME -->
+<h3 align="center">
+  <i>Passionate about technology, I'm a web developer because I believe in the incredible transformation that technology can bring to people and the possibility of solving complex problems in a simpler, more scalable and elegant way!</i>
+</h3>
+
+<hr>
+
+
+
+
+
 
 <!-- ABILITIES -->
 <h3 align="center">
