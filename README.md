@@ -16,7 +16,7 @@
 
 <!-- ABOUT ME -->
 <h3 align="center">
-  <i>Passionate about technology, I'm a web developer because I believe in the incredible transformation that technology can bring to people and the possibility of solving complex problems in a simpler, more scalable and elegant way!</i>
+  <i>Passionate about technology, I became a web developer because I believe in the incredible transformations that technology can bring to people by solving complex problems in a simple, scalable and elegant way!</i>
 </h3>
 
 <hr>
