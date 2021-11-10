@@ -91,4 +91,4 @@
   <img align="center" alt="Snake animation" src="https://github.com/ArgLD/ArgLD/blob/output/github-contribution-grid-snake.svg" />
 </h3>
 
-
+  ![Snake animation](https://github.com/ArgLD/ArgLD/blob/output/github-contribution-grid-snake.svg)
