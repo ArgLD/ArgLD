@@ -87,10 +87,4 @@
 
 ![Profile views](https://gpvc.arturio.dev/ArgLD)
 
-<h3>
-  <img align="center" alt="Snake animation" src="https://github.com/ArgLD/ArgLD/blob/output/github-contribution-grid-snake.svg" />
-</h3>
-
-  ![Snake animation](https://github.com/ArgLD/ArgLD/blob/output/github-contribution-grid-snake.svg)
-
 ![github contribution grid snake animation](https://raw.githubusercontent.com/ArgLD/ArgLD/output/github-contribution-grid-snake.svg)
