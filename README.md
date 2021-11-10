@@ -15,6 +15,7 @@
 <hr>
 
 <!-- ABOUT ME -->
+<!-- 💬 About me: -->
 <h3 align="center">
   <i>Passionate about technology, I became a web developer because I believe in the incredible transformations that technology can bring to people by solving complex problems in a simple, scalable and elegant way!</i>
 </h3>
@@ -22,12 +23,9 @@
 <hr>
 
 
-
-
-
-
 <!-- ABILITIES -->
-<h3 align="center">
+<!-- 🌱 I’m currently learning: -->
+<h3 align="center"> 
      <code><img src="https://img.shields.io/badge/-HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=important"></code>
      <code><img src="https://img.shields.io/badge/-CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=blue"></code>
      <code><img src="https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=yellow"></code>
@@ -79,14 +77,17 @@
 </h3>
   
 <h3 align="left">
-  <i>Follow me around the web:</i><br>
+  <i>📫 Follow me around the web:</i><br>
   <a href="https://www.linkedin.com/in/argleydson" target="_blank"><img src="https://img.shields.io/badge/Argleydson-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.instagram.com/xleaox/" target="_blank"><img src="https://img.shields.io/badge/@xleaox-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://twitter.com/ArgleydsonLeao" target="_blank"><img src="https://img.shields.io/badge/@ArgleydsonLeao-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="https://www.facebook.com/xLEAOx" target="_blank"><img src="https://img.shields.io/badge/-@xLEAOx-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/xLEAOx" alt="Facebook"></a>  
- <a href="https://mail.google.com/" target="_blanck"><img src="https://img.shields.io/badge/-argleydsondev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:argleydsondev@gmail.com" alt="Gmail"></a>
+ <a href="mailto:argleydsondev@gmail.com" target="_blanck"><img src="https://img.shields.io/badge/-argleydsondev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:argleydsondev@gmail.com" alt="Gmail"></a>
  </h3>
 
 ![Profile views](https://gpvc.arturio.dev/ArgLD)
+
+![Snake animation](https://github.com/ArgLD/ArgLD/blob/output/github-contribution-grid-snake.svg)
+
 
 
