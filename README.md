@@ -92,3 +92,5 @@
 </h3>
 
   ![Snake animation](https://github.com/ArgLD/ArgLD/blob/output/github-contribution-grid-snake.svg)
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/ArgLD/ArgLD/output/github-contribution-grid-snake.svg)
